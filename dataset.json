@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 30 days and a state-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Review Whales in New Jersey, US",
-  "export_job_id": "ea02b057-5e2c-4ecd-94c2-c019d1dbb1d2",
+  "export_job_id": "c28b7d05-b0ba-4835-b24f-62b1f4508a0b",
   "github_org": "Beamstation-Datasets",
   "id_short": 929910,
   "location_name": "New Jersey",
   "location_type": "state",
   "repo_name": "top-30-active-restaurant-review-whales-in-new-jersey-us-sample-929910",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/929910/beamstation_929910_restaurants-us-nj_SAMPLE_DIST.csv",
-  "sample_pct": 5.0,
+  "sample_pct": 9.97,
   "sample_records": 89,
   "sample_sha256": "acfd5d8836457a173d50f57fa629b400d0db06ec8a92d17b64601fcc9aec769b",
   "sample_size_bytes": 359218,
-  "total_records": 1779,
-  "updated_at": "2026-04-01T00:05:35.203893+00:00"
+  "total_records": 893,
+  "updated_at": "2026-04-15T02:37:43.308962+00:00"
 }
