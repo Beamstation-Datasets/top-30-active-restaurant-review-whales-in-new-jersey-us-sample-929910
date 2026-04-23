@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in New Jersey, US
 
-> Free BeamStation sample export with 89 rows and masked direct-contact fields.
+> Free BeamStation sample export with 75 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `929910` |
 | Location | New Jersey |
 | Category | Restaurants |
-| Full dataset size | 893 records |
-| Free sample size | 89 records (9.97%) |
-| Last export | 2026-04-15T02:37:43.308962+00:00 |
+| Full dataset size | 758 records |
+| Free sample size | 75 records (9.89%) |
+| Last export | 2026-04-22T07:46:27.732811+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-new-jersey-us-sample-929910/releases/download/sample-latest/beamstation_929910_restaurants-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
