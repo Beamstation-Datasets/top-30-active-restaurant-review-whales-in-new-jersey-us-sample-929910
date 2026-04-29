@@ -1,12 +1,12 @@
 {
-  "export_job_id": "803e4f54-1df7-401e-9f40-7c767396da22",
+  "export_job_id": "41e8e699-0ca5-47be-b7f3-7280b7825f8b",
   "id_short": 929910,
-  "published_at": "2026-04-23T07:17:06Z",
+  "published_at": "2026-04-29T19:49:53Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-new-jersey-us-sample-929910",
   "sample_asset_name": "beamstation_929910_restaurants-us-nj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/929910/beamstation_929910_restaurants-us-nj_SAMPLE_DIST.csv",
-  "sample_records": 75,
-  "sample_sha256": "8272df131dc3f88ba4edd4393771ad8f9c0804235078d3533d9a7f1c52affbfa",
-  "sample_size_bytes": 295008,
-  "total_records": 758
+  "sample_records": 2,
+  "sample_sha256": "29b82e40bcdf1e0f829c021107ce6d1d5615525330708513dc6df0ef6ed79726",
+  "sample_size_bytes": 24528,
+  "total_records": 26
 }
